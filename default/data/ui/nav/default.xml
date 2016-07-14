@@ -91,6 +91,9 @@
       <saved source="all" match="PAN - Config" view="search" />
     </collection>
   </collection>
+  <collection label="Docs">
+    <a href="http://pansplunk.readthedocs.io/en/latest/index.html">@readthedocs.org</a>
+  </collection>
 
   <!-- Search -->
   <view name="search" stylesheet="application.css"/>
